@@ -13,7 +13,10 @@
 -------------
 
 ### 광스위칭
-* [광스위치 허브](https://github.com/hsryu456/Today-I-Learned_TIL/blob/master/Algorithm/analysis_of_algorithms.md#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EC%88%98%ED%96%89%EC%8B%9C%EA%B0%84-%EB%B6%84%EC%84%9D, "github link")
-  * []
-  * []
+* [광스위치 허브](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/%EA%B4%91%EC%8A%A4%EC%9C%84%EC%B9%98.md#-%EA%B4%91%EC%8A%A4%EC%9C%84%EC%B9%98optical-switch, "github link")
+  * [VLAN]
+  * [펌웨어(_firmware_)]
+  *
+  *
+  *
 * [](https://github.com/hsryu456/Today-I-Learned_TIL/blob/master/Algorithm/sorting.md#%EC%A0%95%EB%A0%ACsorting, "github link")
