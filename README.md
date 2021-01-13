@@ -14,9 +14,17 @@
 
 ### 광스위칭
 * [광스위치 허브](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/%EA%B4%91%EC%8A%A4%EC%9C%84%EC%B9%98.md#-%EA%B4%91%EC%8A%A4%EC%9C%84%EC%B9%98optical-switch, "github link")
-  * [VLAN]
+  * [VLAN](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/%EA%B4%91%EC%8A%A4%EC%9C%84%EC%B9%98.md#-%EA%B4%91%EC%8A%A4%EC%9C%84%EC%B9%98optical-switch, "github link")
   * [펌웨어(_firmware_)]
-  *
-  *
-  *
+  * [POE]
+  * [Bypass]
+  * [SFP 모듈]
+  * [광케이블]
+  * [LLDP]
 * [](https://github.com/hsryu456/Today-I-Learned_TIL/blob/master/Algorithm/sorting.md#%EC%A0%95%EB%A0%ACsorting, "github link")
+
+### **PuTTy**
+
+### **NMS**
+
+### **OTDR**
