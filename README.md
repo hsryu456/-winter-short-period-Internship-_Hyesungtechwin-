@@ -24,6 +24,9 @@
 * [](https://github.com/hsryu456/Today-I-Learned_TIL/blob/master/Algorithm/sorting.md#%EC%A0%95%EB%A0%ACsorting, "github link")
 
 ### **PuTTy**
+* [PuTTY](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/PuTTy.md#-putty, "github link")는 SSH, 텔넷, rlogin, raw TCP를 위한 클라이언트로 동작하는 자유 및 오픈 소스 단말 에뮬레이터 응용 프로그램이다.
+  * [SSH](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/SSH.md#-ssh, "github link")
+  * [텔넷(_TELNET_)](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/TELNET.md#-%ED%85%94%EB%84%B7telnet, "github link")
 
 ### **NMS**
 
