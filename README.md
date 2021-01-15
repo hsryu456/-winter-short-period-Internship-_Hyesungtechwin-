@@ -16,7 +16,7 @@
 * [광스위치 허브](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/%EA%B4%91%EC%8A%A4%EC%9C%84%EC%B9%98.md#-%EA%B4%91%EC%8A%A4%EC%9C%84%EC%B9%98optical-switch, "github link")
   * [VLAN](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/VLAN.md#-vlanvirtual-lan, "github link")
   * [펌웨어(_firmware_)](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/firmware.md#-%ED%8E%8C%EC%9B%A8%EC%96%B4firmware, "github link")
-  * [POE]
+  * [POE](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/POE.md#-poe_-_, "")
   * [Bypass]
   * [SFP 모듈]
   * [광케이블]
