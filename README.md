@@ -17,7 +17,7 @@
   * [VLAN](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/VLAN.md#-vlanvirtual-lan, "github link")
   * [펌웨어(_firmware_)](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/firmware.md#-%ED%8E%8C%EC%9B%A8%EC%96%B4firmware, "github link")
   * [POE](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/POE.md#-poe_-_, "")
-  * [Bypass]
+  * [Bypass](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/Bypass.md#-bypass__, "github link")
   * [SFP 모듈]
   * [광케이블]
   * [LLDP]
