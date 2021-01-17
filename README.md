@@ -18,14 +18,14 @@
   * [펌웨어(_firmware_)](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/firmware.md#-%ED%8E%8C%EC%9B%A8%EC%96%B4firmware, "github link")
   * [POE](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/POE.md#-poe_-_, "")
   * [Bypass](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/Bypass.md#-bypass__, "github link")
-  * [SFP 모듈]
+  * [SFP 모듈](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/SFP%20%EB%AA%A8%EB%93%88.md#-sfp-%EB%AA%A8%EB%93%88__, "github link")
   * [광케이블]
   * [LLDP]
 * [](https://github.com/hsryu456/Today-I-Learned_TIL/blob/master/Algorithm/sorting.md#%EC%A0%95%EB%A0%ACsorting, "github link")
 
 ### **Protocol**
-* NTP
-* SNMP
+* [NTP](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/NTP.md#-ntp__, "github link")
+* [SNMP](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/SNMP.md#-snmp__, "github link")
 
 ### **PuTTy**
 * [PuTTY](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/PuTTy.md#-putty, "github link")는 SSH, 텔넷, rlogin, raw TCP를 위한 클라이언트로 동작하는 자유 및 오픈 소스 단말 에뮬레이터 응용 프로그램이다.
