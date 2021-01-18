@@ -9,8 +9,7 @@
 
 * 아래 이미지처럼 모듈에 광점퍼코드를 연결시켜 사용한다.
 
-<img src="https://user-images.githubusercontent.com/62328584/104865579-be199b80-597f-11eb-95cd-2a075f969552.JPG
-" width="550px" height="250px"></img><br/>
+<img src="https://user-images.githubusercontent.com/62328584/104865579-be199b80-597f-11eb-95cd-2a075f969552.JPG" width="550px" height="250px"></img><br/>
 
 ### **< GBIC(left)와 SFP모듈(right) >**
 <img src="https://user-images.githubusercontent.com/62328584/104862885-b1914500-5977-11eb-9c35-3f8c45069f88.JPG" width="550px" height="250px"></img><br/>
