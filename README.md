@@ -19,7 +19,7 @@
   * [POE](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/POE.md#-poe_-_, "")
   * [Bypass](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/Bypass.md#-bypass__, "github link")
   * [SFP 모듈](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/SFP%20%EB%AA%A8%EB%93%88.md#-sfp-%EB%AA%A8%EB%93%88__, "github link")
-  * [광케이블](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/%EA%B4%91%EC%BC%80%EC%9D%B4%EB%B8%94.md#-%EA%B4%91%EC%BC%80%EC%9D%B4%EB%B8%94__, "github link")
+  * [광커넥터](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/%EA%B4%91%EC%BB%A4%EB%84%A5%ED%84%B0.md#-%EA%B4%91%EC%BB%A4%EB%84%A5%ED%84%B0optical-connector, "github link")
   * [LLDP]
 * [](https://github.com/hsryu456/Today-I-Learned_TIL/blob/master/Algorithm/sorting.md#%EC%A0%95%EB%A0%ACsorting, "github link")
 
