@@ -20,9 +20,8 @@
   * [Bypass](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/Bypass.md#-bypass__, "github link")
   * [SFP 모듈](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/SFP%20%EB%AA%A8%EB%93%88.md#-sfp-%EB%AA%A8%EB%93%88__, "github link")
   * [광커넥터](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/%EA%B4%91%EC%BB%A4%EB%84%A5%ED%84%B0.md#-%EA%B4%91%EC%BB%A4%EB%84%A5%ED%84%B0optical-connector, "github link")
-  * [LLDP]
-  * [FDF]
-* [](https://github.com/hsryu456/Today-I-Learned_TIL/blob/master/Algorithm/sorting.md#%EC%A0%95%EB%A0%ACsorting, "github link")
+  * [LLDP](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/LLDP.md#-lldp__, "github link")
+  * [FDF](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/FDF.md#-fdf__, "github link")
 
 ### **Protocol**
 * [NTP](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/NTP.md#-ntp__, "github link")
