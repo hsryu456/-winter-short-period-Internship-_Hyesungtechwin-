@@ -36,4 +36,4 @@
 
 ### **OTDR**
 
-### **UPS**
+### [**UPS**](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/UPS.md#-upsuninterruptible-power-supply, "github link")
