@@ -31,7 +31,7 @@
   * [SSH](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/SSH.md#-ssh, "github link")
   * [텔넷(_TELNET_)](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/TELNET.md#-%ED%85%94%EB%84%B7telnet, "github link")
 
-### **NMS**
+### [**NMS**](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/NMS.md#-nmsnetwork-management-system, "github link")
 * [SNMP](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/SNMP.md#-snmp__, "github link")
 
 ### **OTDR**
