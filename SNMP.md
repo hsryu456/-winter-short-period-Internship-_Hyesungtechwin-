@@ -56,7 +56,7 @@
 
      모든 네트워크 장비들은 MIB 트리를 제공한다.
 
-* 각각의 관리객체들은 OID(Object IDentifier)라는 번호를 통해 식별하고 접근하려 관리한다.
+* 각각의 관리객체들은 **OID**(Object IDentifier)라는 번호를 통해 식별하고 접근하려 관리한다.
 
 <img src="https://user-images.githubusercontent.com/62328584/105264839-0df0a080-5bd4-11eb-8c18-dda36985652d.JPG" width="800px" height="400px"></img><br/>
 
