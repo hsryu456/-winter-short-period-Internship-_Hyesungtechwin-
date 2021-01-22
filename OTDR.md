@@ -1,4 +1,4 @@
-# 🔌 OTDR(_Optical time-domain reflectometer_)
+# 💫 OTDR(_Optical time-domain reflectometer_)
 * 광선로에 광 펄스(5 ㎱ ~ 10 ㎲)들을 입사시켜 되돌아온 파형에 대해 시간영역에서 측정
      - 광 선로의 특성, 접점 손실, 손실 발생 지점, 색분산 등을 측정하고 고장점을 찾는 장비
 
