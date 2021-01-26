@@ -18,6 +18,8 @@
 📚분류
 -------------
 
+### MAC
+
 ### [광통신](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/%EA%B4%91%ED%86%B5%EC%8B%A0.md#-%EA%B4%91%ED%86%B5%EC%8B%A0%EA%B4%91%EC%84%AC%EC%9C%A0-%ED%86%B5%EC%8B%A0, "github link")
 * [광케이블](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/%EA%B4%91%EC%BB%A4%EB%84%A5%ED%84%B0.md#-%EA%B4%91%EC%BB%A4%EB%84%A5%ED%84%B0optical-connector, "github link")
 
@@ -33,6 +35,7 @@
 
 ### Protocol
 * [NTP](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/NTP.md#-ntp__, "github link")
+* [STP]
 
 ### PuTTy
 * [PuTTY](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/PuTTy.md#-putty, "github link")는 SSH, 텔넷, rlogin, raw TCP를 위한 클라이언트로 동작하는 자유 및 오픈 소스 단말 에뮬레이터 응용 프로그램이다.
