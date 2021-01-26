@@ -45,3 +45,8 @@
 ### [OTDR](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/OTDR.md#-otdroptical-time-domain-reflectometer, "")
 
 ### [UPS](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/UPS.md#-upsuninterruptible-power-supply, "github link")
+
+### 관리 방법(Management method)
+* [Out of Band Management](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/Out%20of%20Band%20Management.md#-out-of-band-management, "github link")
+* [In-band Management](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/In-band%20Management.md#-in-band-management, "github link")
+
