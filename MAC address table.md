@@ -40,3 +40,13 @@
 4. 현재 MAC address 테이블의 내용은 MAC address 00-01-11-11-11-11 동적은 포트 1/5에 해당하며 MAC address는 00-01-33-33-33-33 동적은 포트 1에 해당한다. 호스트1과 호스트3 사이의 통신 시간이 지나면 장비는 호스트1과 호스트3에서 보낸 정보를 절대로 받지 않으며 장비의 MAC address 테이블에 저장된 MAC address 매핑 항목을 삭제한다.
 
 <img src="https://user-images.githubusercontent.com/62328584/106108902-43752b00-618c-11eb-802d-e79d861fc73a.jpg" width="600px" height="150px"></img><br/>
+
+▶ 호스트1이 호스트3에 메시지를 보내면 자비는 MAC address 테이블에 따라 포트 1/6에서 포트 1/5로 수신한 데이터를 보낸다.
+
+이때, 장비는 세 가지 유형의 프레임을 전달할 수 있음
+
+         1. Broadcast frame: 장비는 충돌 도메인을 차단할 수 있지만, 브로드 캐스트 도메인은 차단할 수 없다. 프레임이 연결된 모든 포트로 전달된다.
+
+         2. Multicast frame: 장비가 IGMP snooping 기능을 설정하지 않으면 장비는 멀티 캐스트와 동일한 프로세스를 수행한다. IGMP snooping을 설정하면 멀티 캐스트 그룹 프레임에 속한 포트로만 멀티 캐스트를 전달한다.
+
+         3. Unicast frame: VLAN을 설정하지 않은 경우 수신한 Unicast frame은 직접 대응하는 포트에 전달한다. (MAC address가 MAC 테이블에 존재할 때, 존재하지 않을 시 브로드 캐스트) 
