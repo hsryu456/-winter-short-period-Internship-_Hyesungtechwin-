@@ -106,3 +106,18 @@
   ㅇ **transmission (10) :** 매체에 특화된 MIB와 관련되어 Reserved
 
   ㅇ **SNMP (11) :** SNMP 관련 트래픽 통계
+  
+   ### **< MIB 브라우저 >**
+
+  * 각종 OID를 조회할 수 있다.
+
+  * MIB 브라우저를 통해 연결한 장비의 기능이나 상태를 조회할 수 있다. 이때, SNMP 서버를 위한 IP로 접속한다.(Trap Destination)
+
+  <img src="https://user-images.githubusercontent.com/62328584/106415477-969ff400-6492-11eb-86e8-7d201e9db6f6.png" width="800px" height="700px"></img><br/>
+
+      192.168.0.2 장비에 접속 후 MIB 브라우저를 통해 MIB 트리를 조회. 트리 구조로 된 각 객체에 접근할 수 있다.
+
+<img src="https://user-images.githubusercontent.com/62328584/106415710-1c23a400-6493-11eb-9920-6e5da7ae2986.png" width="1700px" height="250px"></img><br/>
+
+    해당 장비의 2번 전원에만 연결했기 때문에 전원 OID에 접근했을 때 Power2Type의 Value만 1이 되는 것을 확인할 수 있다.
+
