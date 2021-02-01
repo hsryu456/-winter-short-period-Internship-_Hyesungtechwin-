@@ -120,4 +120,8 @@
 <img src="https://user-images.githubusercontent.com/62328584/106415710-1c23a400-6493-11eb-9920-6e5da7ae2986.png" width="1700px" height="250px"></img><br/>
 
     해당 장비의 2번 전원에만 연결했기 때문에 전원 OID에 접근했을 때 Power2Type의 Value만 1이 되는 것을 확인할 수 있다.
+    
+<img src="https://user-images.githubusercontent.com/62328584/106417081-7a9e5180-6496-11eb-8e15-6ff6b61b8477.JPG" width="1000px" height="800px"></img><br/>
+
+     위 그림처럼 OID란에 번호를 입력하면 트리를 따라 이동하면서 여러 객체에 접근할 수 있다.
 
