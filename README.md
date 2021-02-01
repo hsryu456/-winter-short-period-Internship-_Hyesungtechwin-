@@ -32,6 +32,7 @@
   * [SFP 모듈](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/SFP%20%EB%AA%A8%EB%93%88.md#-sfp-%EB%AA%A8%EB%93%88__, "github link")
   * [LLDP](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/LLDP.md#-lldp__, "github link")
   * [FDF](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/FDF.md#-fdf__, "github link")
+  * [DDMI](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/FDF.md#-fdf__, "github link")
 
 ### Protocol
 * [NTP](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/NTP.md#-ntp__, "github link")
