@@ -18,6 +18,8 @@
 📚분류
 -------------
 
+### [syslog](https://github.com/hsryu456/-winter-short-period-Internship-_Hyesungtechwin-/blob/main/syslog.md#-syslog, "github link")
+
 ### [MAC table](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/MAC%20address%20table.md#-mac-address-table, "github link")
 
 ### [광통신](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/%EA%B4%91%ED%86%B5%EC%8B%A0.md#-%EA%B4%91%ED%86%B5%EC%8B%A0%EA%B4%91%EC%84%AC%EC%9C%A0-%ED%86%B5%EC%8B%A0, "github link")
