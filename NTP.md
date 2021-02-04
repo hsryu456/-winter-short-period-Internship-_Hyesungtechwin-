@@ -73,3 +73,20 @@
     -사내 네트워크에는 외부 Stratum 2 서버와 연결시킨 Stratum 3 서버를 운용하여 다른 모든 사내 장비들이 이를 이용하게하면 된다.
     -보다 더 안정되게 운용하려면 직접 PRC에 연결시킨 Stratum 1을 운용할 수도 있음
     -일반 사용자들은 외부 Stratum 2 서버를 직접 이용하는 것이 유리하다.
+
+### **< NTP 실습  >**
+
+<img src="https://user-images.githubusercontent.com/62328584/106717581-43b96e80-6643-11eb-8d4b-c2f010ecff84.png" width="750px" height="300px"></img><br/>
+
+<img src="https://user-images.githubusercontent.com/62328584/106825603-95580c80-66c8-11eb-8996-d789f4ff6e9e.png" width="750px" height="300px"></img><br/>
+
+      1970-01-01 날짜로 설정되어 있음.
+      ▶유닉스 시간: 유닉스 계열의 운영체제를 사용하는 컴퓨터에서 시간을 표시하는 방법이다. 1970년 1월 1일 0시 0분 0초 UTC에서부터 몇 초나 지났는지를 표시한다. 그레고리력을 따르지만 윤초는 따지지 않고 무시된다.
+
+<img src="https://user-images.githubusercontent.com/62328584/106832229-9bec8100-66d4-11eb-950f-de8317e902d3.png" width="750px" height="400px"></img><br/>
+
+      사용 중인 컴퓨터(192.168.0.197)를 ntp 서버로 설정 
+
+<img src="https://user-images.githubusercontent.com/62328584/106832350-d0f8d380-66d4-11eb-8d03-d0b5518af71c.png" width="750px" height="300px"></img><br/>
+
+<img src="https://user-images.githubusercontent.com/62328584/106847664-afa6e000-66f2-11eb-845c-f5205f524973.png" width="750px" height="250px"></img><br/>
