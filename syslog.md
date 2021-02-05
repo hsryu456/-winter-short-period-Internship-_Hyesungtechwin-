@@ -58,3 +58,32 @@
 <img src="https://user-images.githubusercontent.com/62328584/107007062-5c598e00-67d5-11eb-8e2d-85c81274a880.png" width="750px" height="300px"></img><br/>
 
       Visual Syslog Server 프로그램의 설정에서 UDP, TCP 포트 설정
+
+<img src="https://user-images.githubusercontent.com/62328584/107007230-9460d100-67d5-11eb-8621-eb535b1bf994.png" width="750px" height="300px"></img><br/>
+
+<img src="https://user-images.githubusercontent.com/62328584/107007298-ac385500-67d5-11eb-8c63-76dbd19b356d.png" width="750px" height="150px"></img><br/>
+
+      TCP, UDP의 514번 포트가 무사히 활성됐음을 알 수 있다.
+
+<img src="https://user-images.githubusercontent.com/62328584/107007421-dd188a00-67d5-11eb-9112-169919eb6b0e.png" width="750px" height="250px"></img><br/>
+
+      광모듈을 제거했을 때 발생한 로그 메세지
+
+<img src="https://user-images.githubusercontent.com/62328584/107007542-033e2a00-67d6-11eb-9a7a-be4095d0d4c3.png" width="750px" height="500px"></img><br/>
+
+      Visual Syslog Server 프로그램에서 확인한 로그
+
+<img src="https://user-images.githubusercontent.com/62328584/107007918-7fd10880-67d6-11eb-8af7-a3c0a16a28c4.png" width="750px" height="400px"></img><br/>
+
+      광모듈을 삽입했을 때 발생하는 로그
+
+<img src="https://user-images.githubusercontent.com/62328584/107008070-adb64d00-67d6-11eb-86dc-2ac0f36d6260.png" width="750px" height="350px"></img><br/>
+
+      Visual Syslog Server 프로그램에서 확인한 로그
+
+<img src="https://user-images.githubusercontent.com/62328584/107008176-d2122980-67d6-11eb-8641-42544e5312a3.png" width="750px" height="400px"></img><br/>
+
+      -Visual Syslog Server 프로그램의 Rotation기능.   
+      -지정한 위치에 미리 설정해놓은 크기(사진 상으로 1MB)의 로그파일이 저장된다.
+      -설정한 크기보다 커지면 다음 rotation 파일을 생성하여 이후 발생하는 로그 메세지를 저장한다.
+
