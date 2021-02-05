@@ -35,3 +35,26 @@
       ex)
       -9단계인 *는 모든 메시지를 의미함.(1부터 9까지의 모든 상황을 포함.)   
       -8단계인 debug는 1부터 8까지의 상황을 모두 포함한다. 
+
+- - -
+### **< syslog 실습  >**
+
+* Visual Syslog Server 이용하여 연결한 장비의 로그를 가져온다.
+
+<img src="https://user-images.githubusercontent.com/62328584/107006398-6a5adf00-67d4-11eb-8266-1e2d2f4c8c42.jpg" width="750px" height="300px"></img><br/>
+
+        광다중화장치에 광모듈(SFP) 하나를 삽입해놓은 상태
+
+
+<img src="https://user-images.githubusercontent.com/62328584/107006616-bdcd2d00-67d4-11eb-9aa0-39417c97c094.png" width="750px" height="500px"></img><br/>
+
+        장비에 아무런 변화가 없는 상황에서 Log 확인
+
+<img src="https://user-images.githubusercontent.com/62328584/107006747-f4a34300-67d4-11eb-8a7e-a86948f770da.png" width="750px" height="300px"></img><br/>
+
+      -장비와 연결된 컴퓨터(192.168.0.197)를 로그 서버로 등록   
+      -Syslog Level은 Info로 설정. 우선순위7의 메세지로 장비에 의미있는 변화에 대한 정보를 나타낸다.
+
+<img src="https://user-images.githubusercontent.com/62328584/107007062-5c598e00-67d5-11eb-8e2d-85c81274a880.png" width="750px" height="300px"></img><br/>
+
+      Visual Syslog Server 프로그램의 설정에서 UDP, TCP 포트 설정
