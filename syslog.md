@@ -43,17 +43,17 @@
 
 <img src="https://user-images.githubusercontent.com/62328584/107006398-6a5adf00-67d4-11eb-8266-1e2d2f4c8c42.jpg" width="750px" height="300px"></img><br/>
 
-        광다중화장치에 광모듈(SFP) 하나를 삽입해놓은 상태
+       광다중화장치에 광모듈(SFP) 하나를 삽입해놓은 상태
 
 
 <img src="https://user-images.githubusercontent.com/62328584/107006616-bdcd2d00-67d4-11eb-9aa0-39417c97c094.png" width="750px" height="500px"></img><br/>
 
-        장비에 아무런 변화가 없는 상황에서 Log 확인
+       장비에 아무런 변화가 없는 상황에서 Log 확인
 
 <img src="https://user-images.githubusercontent.com/62328584/107006747-f4a34300-67d4-11eb-8a7e-a86948f770da.png" width="750px" height="300px"></img><br/>
 
       -장비와 연결된 컴퓨터(192.168.0.197)를 로그 서버로 등록   
-      -Syslog Level은 Info로 설정. 우선순위7의 메세지로 장비에 의미있는 변화에 대한 정보를 나타낸다.
+      -Syslog Level은 Info로 설정. 우선순위7의 메세지로 장비에 의미있는 변화를 감지하여 그 정보를 띄운다.
 
 <img src="https://user-images.githubusercontent.com/62328584/107007062-5c598e00-67d5-11eb-8e2d-85c81274a880.png" width="750px" height="300px"></img><br/>
 
@@ -69,11 +69,11 @@
 
       광모듈을 제거했을 때 발생한 로그 메세지
 
-<img src="https://user-images.githubusercontent.com/62328584/107007542-033e2a00-67d6-11eb-9a7a-be4095d0d4c3.png" width="750px" height="500px"></img><br/>
+<img src="https://user-images.githubusercontent.com/62328584/107007542-033e2a00-67d6-11eb-9a7a-be4095d0d4c3.png" width="850px" height="700px"></img><br/>
 
       Visual Syslog Server 프로그램에서 확인한 로그
 
-<img src="https://user-images.githubusercontent.com/62328584/107007918-7fd10880-67d6-11eb-8af7-a3c0a16a28c4.png" width="750px" height="400px"></img><br/>
+<img src="https://user-images.githubusercontent.com/62328584/107007918-7fd10880-67d6-11eb-8af7-a3c0a16a28c4.png" width="850px" height="700px"></img><br/>
 
       광모듈을 삽입했을 때 발생하는 로그
 
