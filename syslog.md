@@ -41,7 +41,7 @@
 
 * Visual Syslog Server 이용하여 연결한 장비의 로그를 가져온다.
 
-<img src="https://user-images.githubusercontent.com/62328584/107006398-6a5adf00-67d4-11eb-8266-1e2d2f4c8c42.jpg" width="750px" height="300px"></img><br/>
+<img src="https://user-images.githubusercontent.com/62328584/107006398-6a5adf00-67d4-11eb-8266-1e2d2f4c8c42.jpg" width="750px" height="500px"></img><br/>
 
        광다중화장치에 광모듈(SFP) 하나를 삽입해놓은 상태
 
@@ -65,23 +65,23 @@
 
       TCP, UDP의 514번 포트가 무사히 활성됐음을 알 수 있다.
 
-<img src="https://user-images.githubusercontent.com/62328584/107007421-dd188a00-67d5-11eb-9112-169919eb6b0e.png" width="750px" height="250px"></img><br/>
+<img src="https://user-images.githubusercontent.com/62328584/107007421-dd188a00-67d5-11eb-9112-169919eb6b0e.png" width="750px" height="350px"></img><br/>
 
       광모듈을 제거했을 때 발생한 로그 메세지
 
-<img src="https://user-images.githubusercontent.com/62328584/107007542-033e2a00-67d6-11eb-9a7a-be4095d0d4c3.png" width="850px" height="700px"></img><br/>
+<img src="https://user-images.githubusercontent.com/62328584/107007542-033e2a00-67d6-11eb-9a7a-be4095d0d4c3.png" width="850px" height="800px"></img><br/>
 
       Visual Syslog Server 프로그램에서 확인한 로그
 
-<img src="https://user-images.githubusercontent.com/62328584/107007918-7fd10880-67d6-11eb-8af7-a3c0a16a28c4.png" width="850px" height="700px"></img><br/>
+<img src="https://user-images.githubusercontent.com/62328584/107007918-7fd10880-67d6-11eb-8af7-a3c0a16a28c4.png" width="850px" height="800px"></img><br/>
 
       광모듈을 삽입했을 때 발생하는 로그
 
-<img src="https://user-images.githubusercontent.com/62328584/107008070-adb64d00-67d6-11eb-86dc-2ac0f36d6260.png" width="750px" height="350px"></img><br/>
+<img src="https://user-images.githubusercontent.com/62328584/107008070-adb64d00-67d6-11eb-86dc-2ac0f36d6260.png" width="750px" height="500px"></img><br/>
 
       Visual Syslog Server 프로그램에서 확인한 로그
 
-<img src="https://user-images.githubusercontent.com/62328584/107008176-d2122980-67d6-11eb-8641-42544e5312a3.png" width="750px" height="400px"></img><br/>
+<img src="https://user-images.githubusercontent.com/62328584/107008176-d2122980-67d6-11eb-8641-42544e5312a3.png" width="750px" height="500px"></img><br/>
 
       -Visual Syslog Server 프로그램의 Rotation기능.   
       -지정한 위치에 미리 설정해놓은 크기(사진 상으로 1MB)의 로그파일이 저장된다.
