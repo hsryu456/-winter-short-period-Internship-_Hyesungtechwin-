@@ -41,8 +41,8 @@
 ### Protocol
 * [NTP](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/NTP.md#-ntp__, "github link")
 * [STP](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/STP.md#-stp_-_, "github link")
-* [IGMP](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/STP.md#-stp_-_, "github link")
-* [ICMP](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/STP.md#-stp_-_, "github link")
+* [IGMP](https://github.com/hsryu456/-winter-short-period-Internship-_Hyesungtechwin-/blob/main/IGMP.md#-igmp, "github link")
+* [ICMP](https://github.com/hsryu456/-winter-short-period-Internship-_Hyesungtechwin-/blob/main/ICMP.md#-icmp, "github link")
 
 ### PuTTy
 * [PuTTY](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/PuTTy.md#-putty, "github link")는 SSH, 텔넷, rlogin, raw TCP를 위한 클라이언트로 동작하는 자유 및 오픈 소스 단말 에뮬레이터 응용 프로그램이다.
