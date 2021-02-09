@@ -18,9 +18,9 @@
 📚분류
 -------------
 
-### [NAT]
+### [NAT](https://github.com/hsryu456/-winter-short-period-Internship-_Hyesungtechwin-/blob/main/NAT.md#-natnetwork-address-translation, "github link")
 
-### [syslog](https://github.com/hsryu456/-winter-short-period-Internship-_Hyesungtechwin-/blob/main/syslog.md#-syslog, "github link")
+### [Syslog](https://github.com/hsryu456/-winter-short-period-Internship-_Hyesungtechwin-/blob/main/syslog.md#-syslog, "github link")
 
 ### [MAC table](https://github.com/hsryu456/Internship_hyesungtechwin-/blob/main/MAC%20address%20table.md#-mac-address-table, "github link")
 
