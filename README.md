@@ -18,6 +18,11 @@
 📚분류
 -------------
 
+
+### [FTP](https://github.com/hsryu456/-winter-short-period-Internship-_Hyesungtechwin-/blob/main/NAT.md#-natnetwork-address-translation, "github link")
+
+### [TFTP](https://github.com/hsryu456/-winter-short-period-Internship-_Hyesungtechwin-/blob/main/NAT.md#-natnetwork-address-translation, "github link")
+
 ### [NAT](https://github.com/hsryu456/-winter-short-period-Internship-_Hyesungtechwin-/blob/main/NAT.md#-natnetwork-address-translation, "github link")
 
 ### [Syslog](https://github.com/hsryu456/-winter-short-period-Internship-_Hyesungtechwin-/blob/main/syslog.md#-syslog, "github link")
