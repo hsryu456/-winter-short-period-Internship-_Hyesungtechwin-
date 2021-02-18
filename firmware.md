@@ -19,4 +19,4 @@
 <img src="https://user-images.githubusercontent.com/62328584/108294816-f2c87f00-71d9-11eb-89c9-5bf57bf9f761.png" width="800px" height="350px"></img><br/>
 
         노트북(192.168.0.197)과 광스위치 장비(192.168.0.2)를 연결하고 putty를 이용하여 펌웨어 업그레이드(172버전 -> 282버전)   
-        ▶이때 TFTP 이용
+        ▶이때 tftpd32 프로그램 이용
